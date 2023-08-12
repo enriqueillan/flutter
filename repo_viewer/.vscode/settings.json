@@ -1,0 +1,19 @@
+{
+    "editor.fontSize": 12,
+    "window.zoomLevel": 1,
+    "debug.console.fontSize": 12,
+    "terminal.integrated.fontSize": 12,
+    "files.exclude": {
+        "**/*.freezed.dart":true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.git": true
+    },
+    "explorerExclude.backup": {},
+    "java.configuration.updateBuildConfiguration": "interactive"
+
+}
